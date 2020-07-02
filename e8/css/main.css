@@ -34,7 +34,7 @@ main {
   width: 120vw;
   margin: -10vw;
 }
-.Pattern2 .shape1 {
+.Pattern2 .square4 {
   width: 100px;
   height: 100px;
   background-color: tomato;
@@ -42,7 +42,7 @@ main {
   margin: -10px;
   opacity: .75;
 }
-.pattern2 .shape2 {
+.pattern2 .square5 {
   width: 100px;
   height: 100px;
   background-color: dodgerblue;
@@ -50,7 +50,7 @@ main {
   margin: -10px;
   opacity: .75;
 }
-.pattern2 .shape3 {
+.pattern2 .square6 {
   width: 100px;
   height: 100px;
   background-color: gold;
