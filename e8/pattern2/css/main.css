@@ -1,0 +1,24 @@
+body {
+  margin: 60vw;
+}
+main {
+  width: 60vw;
+}
+.shape1 {
+  width: 100px;
+  height: 100px;
+  background-color: yellow;
+  float: left;
+}
+.shape2 {
+  width: 100px;
+  height: 100px;
+  background-color: darkblue;
+  float: left;
+}
+.shape3 {
+  width: 100px;
+  height: 100px;
+  background-color: green;
+  float: left;
+}
