@@ -22,3 +22,37 @@ main {
   background-color: gold;
   float: left;
 }
+
+
+
+body {
+  overflow-x: hidden;
+}
+main {
+  width: 140vw;
+  margin: -20vw;
+  width: 120vw;
+  margin: -10vw;
+}
+.Pattern2 .shape1 {
+  width: 100px;
+  height: 100px;
+  background-color: tomato;
+  float: left;
+  margin: -10px;
+  opacity: .75;
+}
+.pattern2 .shape2 {
+  width: 100px;
+  height: 100px;
+  background-color: dodgerblue;
+  float: left;
+  margin: -10px;
+  opacity: .75;
+}
+.pattern2 .shape3 {
+  width: 100px;
+  height: 100px;
+  background-color: gold;
+  float: left;
+  margin: -10px;
