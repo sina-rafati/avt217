@@ -1,13 +1,13 @@
 body {
- margin: 0;
+  margin: 0;
 }
 main {
- width: 120vw;
+  width: 140vw;
 }
 .shape1 {
   width: 100px;
   height: 100px;
-  background-color:tomato;
+  background-color: tomato;
   float: left;
 }
 .shape2 {
