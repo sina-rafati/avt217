@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+  margin: 60vw;
+}
+
+.shape1 {
+  width: 100px;
+  height: 100px;
+  background-color: yellow;
+  float: left;
+}
+.shape2 {
+  width: 100px;
+  height: 100px;
+  background-color: darkblue;
+  float: left;
+}
+.shape3 {
+  width: 100px;
+  height: 100px;
+  background-color: green;
+  float: left;
+}
+
+
+body {
+  overflow-x: hidden;
+}
+
+.pattern2.square4 {
+  width: 100px;
+  height: 100px;
+  background-color: tomato;
+  float: left;
+  margin: -10px;
+  opacity: .75;
+}
+.pattern2.square5 {
+  width: 100px;
+  height: 100px;
+  background-color: dodgerblue;
+  float: left;
+  margin: -10px;
+  opacity: .75;
+}
+.pattern2.square6 {
+  width: 100px;
+  height: 100px;
+  background-color: gold;
+  float: left;
+  margin: -10px;
