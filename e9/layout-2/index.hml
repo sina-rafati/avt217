@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+     <meta charset="utf-8">
+     <title>Column Grid</title>
+     <link href="../css/main.css" rel="stylesheet">
+  </head>
+  <body>
+
+  <div class="row">
+    <div class="column"></div>
+    <div class="column"></div>
+    <div class="column"></div>
+  </div class="row">
+ </body>
+</html>
