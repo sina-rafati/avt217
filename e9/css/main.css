@@ -25,23 +25,20 @@ body {
 
 
 
+body {
+  margin: 0;
+  background-color: #red;
+}
 .layout-2 {
   width: 100px;
   height: 100px;
-  background-color: #222222;
+  background-color: #white;
   float: left;
 }
 
-* {
-  box-sizing: border-box;
-}
 body {
   margin: 0;
-  background-color: #dddddd;
-}
-.board {
-  width: 800px;
-  margin: 50px auto;
+  background-color: #red;
 }
 
 .header {
