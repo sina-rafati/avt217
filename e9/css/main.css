@@ -12,10 +12,6 @@ body {
   margin: 50px auto;
 }
 
-.column {
-  width: 300px;
-  margin: 50px auto;
-}
 
 .red {
   width: 100px;
@@ -29,6 +25,15 @@ body {
   height: 100px;
   background-color: #222222;
   float: left;
+}
+
+
+
+
+
+.column {
+  width: 800px;
+  margin: 50px auto;
 }
 
 .column1 {
