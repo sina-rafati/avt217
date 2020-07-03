@@ -1,20 +1,29 @@
 * {
   box-sizing: border-box;
 }
+
 body {
   margin: 0;
   background-color: #dddddd;
 }
+
 .board {
   width: 800px;
   margin: 50px auto;
 }
+
+.column {
+  width: 300px;
+  margin: 50px auto;
+}
+
 .red {
   width: 100px;
   height: 100px;
   background-color: tomato;
   float: left;
 }
+
 .black {
   width: 100px;
   height: 100px;
@@ -22,23 +31,25 @@ body {
   float: left;
 }
 
-
-
-
-body {
-  margin: 0;
-  background-color: #red;
-}
-.layout-2 {
+.column1 {
   width: 100px;
   height: 100px;
-  background-color: #white;
+  background-color: red;
   float: left;
 }
 
-body {
-  margin: 0;
-  background-color: #red;
+.column2 {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  float: left;
+}
+
+.column3 {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  float: left;
 }
 
 .header {
