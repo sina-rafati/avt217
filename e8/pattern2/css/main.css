@@ -31,6 +31,10 @@ body {
 body {
   overflow-x: hidden;
 }
+main.pattern2 {
+  width: 1700px;
+  height: 1100px;
+}
 
 .pattern2.square4 {
   width: 100px;
