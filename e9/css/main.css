@@ -31,33 +31,61 @@ body {
 
 
 
+* {
+	margin:00;
+	padding: 00;
+
+
+
 .column {
-  width: 800px;
-  margin: 50px auto;
-}
-
-.column1 {
-  width: 100px;
-  height: 100px;
-  background-color: red;
-  float: left;
-}
-
-.column2 {
-  width: 100px;
-  height: 100px;
-  background-color: red;
-  float: left;
-}
-
-.column3 {
-  width: 100px;
-  height: 100px;
-  background-color: red;
-  float: left;
+	width: 300px;
+  height: 80px;
+	margin: 50px auto;
+  background: red;
 }
 
 .header {
-  background-color: #F1F1F1;
-  text-align: center;
-  padding: 20px;
+  width: 75vw;
+  margin: 25px auto;
+	float: left;
+	background-color: black;
+}
+
+.column-left {
+	background-color: red;
+}
+
+.column-center {
+	background-color: red;
+}
+
+.column-right {
+	background-color: red;
+}
+
+.footer {
+  width: 250px;
+  height: 100px;
+	float: left;
+	background-color: red;
+}
+.column-left {
+	width: 250px;
+  height: 100px;
+	float: left;
+	background-color: red;
+}
+
+.column-center {
+	width: 250px;
+  height: 100px;
+  float: left;
+  background-color: red;
+}
+
+.column-right {
+	width: 250px;
+  height: 100px;
+	float: left;
+	background-color: red;
+}
