@@ -34,21 +34,19 @@ body {
 * {
 	margin:00;
 	padding: 00;
-
-
+}
 
 .column {
 	width: 300px;
-  height: 80px;
 	margin: 50px auto;
-  background: red;
+  background-color: black;
 }
 
 .header {
-  width: 75vw;
-  margin: 25px auto;
+  width: 600px;
+  height:100px;
 	float: left;
-	background-color: black;
+	background-color:red;
 }
 
 .column-left {
@@ -64,28 +62,96 @@ body {
 }
 
 .footer {
-  width: 250px;
+  width: 600px;
   height: 100px;
 	float: left;
 	background-color: red;
 }
-.column-left {
-	width: 250px;
-  height: 100px;
+
+ .column-left {
+	width: 400px;
+  height:200px;
+  margin: 20px auto;
 	float: left;
 	background-color: red;
 }
 
 .column-center {
-	width: 250px;
-  height: 100px;
+	width: 400px;
+  height:200px;
+  margin: 20px auto;
   float: left;
   background-color: red;
 }
 
 .column-right {
-	width: 250px;
-  height: 100px;
+	width: 400px;
+  height: 200px;
+  margin: 20px auto;
+	float: left;
+	background-color: red;
+}
+
+
+
+
+
+
+* {
+	margin:00;
+	padding: 00;
+}
+
+.blog {
+	width: 300px;
+	margin: 50px auto;
+  background-color: black;
+}
+
+.blogheader {
+  width: 600px;
+  height:100px;
+	float: left;
+	background-color:red;
+}
+
+.blog-1 {
+ width: 600px;
+ height:600px;
+ margin: 30px auto;
+ float: left;
+ background-color: red;
+}
+
+.blog-11 {
+ width: 200px;
+ height:200px;
+ margin: 30px auto;
+ float: left;
+ background-color: red;
+}
+
+
+.blog-2 {
+ width: 600px;
+ height:600px;
+ margin: 30px auto;
+ float: left;
+ background-color: red;
+}
+
+.blog-12 {
+ width: 200px;
+ height:200px;
+ margin: 30px auto;
+ float: left;
+ background-color: red;
+}
+
+
+.blogfooter {
+  width: 600px;
+  height: 50px;
 	float: left;
 	background-color: red;
 }
