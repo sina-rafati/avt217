@@ -107,9 +107,10 @@ body {
 
 
 .blog {
-	width: 300px;
-	margin: 50px auto;
-  background-color: black;
+	width: 1000px;
+	margin: 200px auto;
+  background-color: white
+  display: flow-root;
 }
 
 .blogheader {
@@ -128,26 +129,39 @@ body {
 }
 
 .blog-11 {
- width: 200px;
+ width: 150px;
  height:200px;
- margin: 30px auto;
+ margin-top: 30px;
+ margin-bottom: 30px;
+ margin-left:20px;
+ margin-right:20px;
  float: left;
  background-color: red;
 }
+.blogfooter1 {
+  width: 600px;
+  height: 50px;
+	float: left;
+	background-color: red;
+}
+
 
 
 .blog-2 {
  width: 600px;
  height:600px;
- margin: 30px auto;
+ margin: 90px auto;
  float: left;
  background-color: red;
 }
 
 .blog-12 {
- width: 200px;
+ width: 150px;
  height:200px;
- margin: 30px auto;
+ margin-top: 90px;
+ margin-bottom: 30px;
+ margin-left:20px;
+ margin-right:20px;
  float: left;
  background-color: red;
 }
