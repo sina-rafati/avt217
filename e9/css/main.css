@@ -31,35 +31,33 @@ body {
 
 
 
-* {
-	margin:00;
-	padding: 00;
-}
+
 
 .column {
-	width: 300px;
+	width: 600px;
 	margin: 50px auto;
-  background-color: black;
+  background-color:white;
+  display: flow-root;
 }
+
+
 
 .header {
   width: 600px;
   height:100px;
+  margin-top: 20px;
+  margin-bottom: 20px;
 	float: left;
 	background-color:red;
 }
 
-.column-left {
-	background-color: red;
+.header2 {
+  width: 600px;
+  height:20px;
+	float: left;
+	background-color:red;
 }
 
-.column-center {
-	background-color: red;
-}
-
-.column-right {
-	background-color: red;
-}
 
 .footer {
   width: 600px;
@@ -68,26 +66,36 @@ body {
 	background-color: red;
 }
 
+
  .column-left {
-	width: 400px;
-  height:200px;
-  margin: 20px auto;
-	float: left;
+	width: 186px;
+  height:400px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 0;
+  margin-right:0;
+  float: left;
 	background-color: red;
 }
 
 .column-center {
-	width: 400px;
-  height:200px;
-  margin: 20px auto;
+  width: 186px;
+  height:400px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  margin-right:20px;
   float: left;
   background-color: red;
 }
 
 .column-right {
-	width: 400px;
-  height: 200px;
-  margin: 20px auto;
+	width: 186px;
+  height: 400px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 0;
+  margin-right:0;
 	float: left;
 	background-color: red;
 }
@@ -97,10 +105,6 @@ body {
 
 
 
-* {
-	margin:00;
-	padding: 00;
-}
 
 .blog {
 	width: 300px;
