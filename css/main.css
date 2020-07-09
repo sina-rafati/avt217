@@ -111,13 +111,14 @@ main.exercise a:hover {
     width: 100%;
     margin-bottom: 50px;
   }
-  header {
-    width: 90vw;
-  }
-  main {
-    width: 90vw;
-  }
-  h1 {
-    font-size: 4rem;
-  }
+}
+header {
+  width: 90vw;
+}
+main {
+  width: 90vw;
+}
+h1 {
+  font-size: 4rem;
+}
 }
