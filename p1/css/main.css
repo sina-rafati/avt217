@@ -4,6 +4,7 @@
 body {
   margin: 0;
   font-family: sans-serif;
+  background-color: #eaefec;
 }
 header,footer {
   background-color: #DCECF2;
@@ -14,8 +15,5 @@ h2 {
 }
 li {
   display: inline;
-}
-
-body {
-  background-color: #eaefec;
+  margin-right: 0; 20px;
 }
