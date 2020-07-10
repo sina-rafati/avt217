@@ -1,0 +1,47 @@
+}
+body {
+  margin: 0;
+}
+
+h1 {
+  font-style: bold;
+  font-size: 60px;
+  float: 10px;
+  margin: 90px;
+}
+
+h2 {
+  font-style: bold;
+  font-size: 40px;
+  float: 10px;
+  margin: 90px;
+}
+
+h3 {
+  font-style: bold;
+  font-size: 30px;
+  float: 10px;
+  margin: 90px;
+}
+
+p  {
+  width: 40%;
+  margin: 100px;
+  {
+}
+@media screen and (min-width: 1500px) {
+body {
+    background-color: lightgreen;
+  }
+}
+
+@media screen and (min-width: 900px) {
+body {
+    background-color: blue;
+  }
+}
+@media screen and (min-width: 600px) {
+body {
+    background-color: yellow;
+  }
+}
