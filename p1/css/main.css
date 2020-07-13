@@ -3,7 +3,7 @@
 }
 body {
   margin: 0;
-  font-family: sans-serif;
+  font-family: Baskerville, serif;
   background-color: #eaefec;
 }
 header,footer {
@@ -28,3 +28,11 @@ body {
 @media screen and (min-width: 900px) {
 body {
     background-color: lightgray;
+
+  }
+    h1 {text-align: center;}
+    {
+    
+      .site-title {
+    font-size: 50px;
+   }
