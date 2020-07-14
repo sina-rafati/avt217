@@ -5,13 +5,15 @@ body {
   margin: 0;
   font-family: Baskerville, serif;
   background-color: #eaefec;
+
 }
 header,footer {
   background-color: #DCECF2;
   color: black;
 }
+
 h2 {
-  color: red;
+  color: gray;
 }
 li {
   display: inline;
@@ -33,3 +35,4 @@ body {
     h1 {text-align: center;
     font-size: 70px;
     {
+    
