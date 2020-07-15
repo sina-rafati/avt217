@@ -1,0 +1,15 @@
+
+
+* {
+  margin: 10px;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  font-size: 20px;
+}
+body {
+  background-color: #79f0f7;
+  color: black;
+  font-family: Bodoni, serif;
+}
