@@ -42,7 +42,7 @@ body {
 }
 
 .col2 {
-    float:right;
+    float:left;
     width:50px;
     margin-right:100px;
 }
