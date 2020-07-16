@@ -31,6 +31,13 @@ li {
     width:600px;
     margin-right:5px;
 }
+div.nextexhibition {
+  height: 10em;
+  display: flex;
+  align-items: center;
+  justify-content: center }
+div.nextexhibition p {
+  margin: 0 }
 
 
 }
