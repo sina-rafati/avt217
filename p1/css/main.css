@@ -20,6 +20,11 @@ h1 {
    font-size: 70px;
    margin:0;
 }
+
+h5 {
+   font-style: normal;
+}
+
 li h1 {
     display: inline;
 }
@@ -47,6 +52,12 @@ li {
     float:left;
     width:600px;
     margin-right:5px;
+}
+.futurexhibition {
+    float:left;
+    width:2000px;
+    margin-right:5px;
+    margin-top:100px;
 }
 div.nextexhibition {
   height: 10em;
@@ -101,12 +112,32 @@ div.nextexhibition p {
   max-width: 25%;
   padding: 0 4px;
 }
+/* Create three equal columns that sits next to each other */
+.column5 {
+  flex: 25%;
+  max-width: 25%;
+  padding: 0 4px;
+}
+/* Create equal columns that sits next to each other */
+.column6 {
+  flex: 25%;
+  max-width: 60%;
+  padding: 0 4px;
+}
 
 .column5 {
   margin-top: 8px;
   vertical-align: middle;
   width: 100%;
 }
+/* Create three equal columns that sits next to each other */
+.column7 {
+  flex: 25%;
+  max-width: 25%;
+  padding: 0 4px;
+}
+
+
 
 
 
