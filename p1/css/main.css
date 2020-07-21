@@ -23,8 +23,8 @@ header {
   background: url(../img/homeImage.jpg) no-repeat center center;
   background-size: cover;
 }
-div.LegalizeHumanity {
-  padding-top: 60%;
+h4.namegallery {
+  padding-top: 40%;
 }
 h1 {
    font-size: 70px;
