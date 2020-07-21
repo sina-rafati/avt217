@@ -25,6 +25,7 @@ header {
 }
 div.namegallery {
   padding-top: 30%;
+  color: white;
   margin-bottom: 25%;
   font-size: 30px;
 }
@@ -33,7 +34,8 @@ button {
 }
 h1 {
    font-size: 70px;
-   margin:0;
+   mar
+   gin:0;
 }
 
 h5 {
@@ -110,34 +112,40 @@ div.nextexhibition p {
 
 
   .column {
+    float:left;
     flex: 25%;
     padding: 5px;
   }
 
-
   .row {
   display: flex;
   flex-wrap: wrap;
-  padding: 0 4px;
+  padding: 0 8px;
 }
 
 /* Create three equal columns that sits next to each other */
 .column4 {
-  flex: 25%;
-  max-width: 25%;
+  flex: 20%;
+  max-width: 23%;
   padding: 0 4px;
+  margin-left:110px;
+  margin-right: 20px;
 }
 /* Create three equal columns that sits next to each other */
 .column5 {
   flex: 25%;
-  max-width: 25%;
+  max-width: 23%;
   padding: 0 4px;
+  margin-left:110px;
+  margin-right: 20px;
 }
 /* Create equal columns that sits next to each other */
 .column6 {
-  flex: 25%;
-  max-width: 60%;
+  flex: 20%;
+  max-width: 70%;
   padding: 0 4px;
+  margin-left:110px;
+  margin-right: 20px;
 }
 
 .column5 {
@@ -148,10 +156,23 @@ div.nextexhibition p {
 /* Create three equal columns that sits next to each other */
 .column7 {
   flex: 25%;
-  max-width: 25%;
+  max-width: 80%;
   padding: 0 4px;
 }
-
+.column8 {
+  flex: 20%;
+  max-width: 23%;
+  padding: 0 4px;
+  margin-left:110px;
+  margin-right: 20px;
+}
+.column9 {
+  flex: 20%;
+  max-width: 36%;
+  padding: 0 4px;
+  margin-left:110px;
+  margin-right: 20px;
+}
 
 
 
