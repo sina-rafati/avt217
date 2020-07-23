@@ -55,10 +55,13 @@ h2 {
   color: #5c5d5d;
   margin: 9%;
 }
-li {
+nav li {
   display: inline;
   margin-right: 5%;
   margin-left: 5%;
+}
+li{
+  list-style-type: none;
 }
 
 div.painting {
