@@ -23,6 +23,9 @@ header {
   background: url(../img/homeImage.jpg) no-repeat center center;
   background-size: cover;
 }
+div.portraits{
+  margin-left: 17px;
+}
 div.namegallery {
   padding-top: 30%;
   color: white;
