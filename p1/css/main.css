@@ -104,11 +104,10 @@ width: 100%;
     margin-right:5px;
 }
 .futurexhibition {
-    float:left;
-    width:2000px;
-    text-indent: 1%;
+    width:90%;
     margin-bottom: 2%;
-    margin-right:5px;
+    margin-right:auto;
+    margin-left: auto;
     margin-top:100px;
 }
 div.nextexhibition {
@@ -160,17 +159,20 @@ div.nextexhibition p {
 
   .row {
   display: flex;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
   flex-wrap: wrap;
   padding: 0 8px;
 }
 
 /* Create three equal columns that sits next to each other */
 .column4 {
-  flex: 20%;
-  max-width: 23%;
+  flex: 33%;
   padding: 0 4px;
-  margin-left:120px;
-  margin-right: 20px;
+}
+.column4 img{
+  width: 100%;
 }
 /* Create three equal columns that sits next to each other */
 .column5 {
