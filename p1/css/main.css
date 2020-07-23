@@ -71,7 +71,7 @@ div.painting {
 div.historyofgallery{
   margin: 20%;
   position: absolute;
-  bottom:-74%;
+  bottom:-70%;
   right: 16px;
   font-size: 20px;
 }
@@ -166,7 +166,7 @@ div.nextexhibition p {
   flex: 20%;
   max-width: 23%;
   padding: 0 4px;
-  margin-left:110px;
+  margin-left:120px;
   margin-right: 20px;
 }
 /* Create three equal columns that sits next to each other */
@@ -174,7 +174,7 @@ div.nextexhibition p {
   flex: 25%;
   max-width: 23%;
   padding: 0 4px;
-  margin-left:110px;
+  margin-left:120px;
   margin-right: 20px;
 }
 /* Create equal columns that sits next to each other */
@@ -201,14 +201,14 @@ div.nextexhibition p {
   flex: 20%;
   max-width: 23%;
   padding: 0 4px;
-  margin-left:110px;
+  margin-left:120px;
   margin-right: 20px;
 }
 .column9 {
   flex: 20%;
   max-width: 36%;
   padding: 0 4px;
-  margin-left:110px;
+  margin-left:120px;
   margin-right: 20px;
 }
 
