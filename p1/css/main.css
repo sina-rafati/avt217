@@ -8,13 +8,21 @@ body {
 }
 footer {
   border-top: 1px solid white;
-  width: 200%;
   color: black;
 }
 header {
   border-bottom: 1px solid white;
-  width: 125%;
   color: black;
+}
+header nav{
+  width: 1136px;
+  margin-left: auto;
+  margin-right: auto;
+}
+footer nav{
+  width: 726px;
+  margin-left: auto;
+  margin-right: auto;
 }
 .maincover{
   width: 100%;
@@ -38,8 +46,11 @@ button {
 }
 h1 {
    font-size: 70px;
-   mar
-   gin:0;
+   margin:0;
+}
+a {
+  color: #5c5d5d;
+  text-decoration: none;
 }
 
 h5 {
@@ -57,8 +68,8 @@ h2 {
 }
 nav li {
   display: inline;
-  margin-right: 5%;
-  margin-left: 5%;
+  margin-right: 50px;
+  margin-left: 50px;
 }
 li{
   list-style-type: none;
@@ -174,6 +185,9 @@ div.nextexhibition p {
 }
 .column4 img{
   width: 100%;
+}
+.singlewidth {
+  flex: 0 0 33%;
 }
 /* Create three equal columns that sits next to each other */
 .column5 {
