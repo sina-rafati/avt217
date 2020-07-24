@@ -3,7 +3,7 @@
 }
 body {
   margin: 0;
-  font-family: Baskerville, serif;
+  font-family: baskerville-display-pt, serif;
   background-color: #eaefec;
 }
 footer {
@@ -20,7 +20,7 @@ header nav{
   margin-right: auto;
 }
 footer nav{
-  width: 726px;
+  width: 740px;
   margin-left: auto;
   margin-right: auto;
 }
