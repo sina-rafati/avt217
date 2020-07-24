@@ -31,8 +31,9 @@ footer nav{
   background: url(../img/homeImage.jpg) no-repeat center center;
   background-size: cover;
 }
-div.portraits{
-  margin-left: 17px;
+
+.portrait img{
+  width: 100%;
 }
 div.namegallery {
   padding-top: 30%;
